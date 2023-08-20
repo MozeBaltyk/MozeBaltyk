@@ -27,6 +27,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 
 ```
 
+# Hi 👋, I'm ********** *****
+
+- 👨‍💻 An Infrastructure engineer.
+- 📝 I will regularly write articles and docs on [The Moze Baltyk Blog](https://mozebaltyk.github.io), if my wife Let me do it...
+
 
 <!--
 **MorzeBaltyk/MorzeBaltyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
