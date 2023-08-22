@@ -19,18 +19,15 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
   G    F B     y   .     v   X               M   w P i     0       k !               G 7         
   x    3 w         o     a   M               \   v _ W     K       ) W               ! 9         
   '    / q         $     !   7               J   L P 2     '       d z               S E         
-  )    ? ]         )     4   3               M     6 g     y       U Y               # G         
-  =    1 G         ^         s               E     < h     #       v "               B >         
-  L    `           o         H               w     6 )     /       + @               _           
-  >    ^           ]         m               G       '     Z       n C               w
-
-
+  )    ? ]         )     4   3               M     6 g     y       U Y               # >         
+  =    1 G         ^         s               E     < h     #         "               B          
+  L    `           o         H               w       )     /         @               _           
 ```
 
 # Hi 👋, I'm ********** *****
 
 - 👨‍💻 An Infrastructure engineer.
-- 📝 I will regularly write articles and docs on [The Moze Baltyk Blog](https://mozebaltyk.github.io), if my wife Let me do it...
+- 📝 I will regularly write articles and docs on [The Moze Baltyk Blog](https://mozebaltyk.github.io), if my wife let me do it...
 
 
 <!--
