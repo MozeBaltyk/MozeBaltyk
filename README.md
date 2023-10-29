@@ -38,9 +38,6 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 <!--
 **MorzeBaltyk/MorzeBaltyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mozebaltyk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mozebaltyk&theme=github)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my blog and a ansible collection 
