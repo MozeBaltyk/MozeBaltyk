@@ -32,13 +32,14 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mozebaltyk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=github)
 
 <!--
 **MorzeBaltyk/MorzeBaltyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mozebaltyk&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mozebaltyk&theme=github)
 
 Here are some ideas to get you started:
 
