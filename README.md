@@ -35,13 +35,12 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=github)
 
-## Recent Activity
-
-This is a list of my most recent activity on GitHub.
+## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
 
 <!--RECENT_ACTIVITY:end-->
+
 
 <!--
 **MorzeBaltyk/MorzeBaltyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

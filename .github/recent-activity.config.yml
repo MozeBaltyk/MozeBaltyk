@@ -1,5 +1,7 @@
-username: mozebaltyk
 settings:
-  max_lines: 3
+  username: mozebaltyk
+  commit_msg: "⚡ Update README with the recent activity"
+  max_lines: 5
+  commit_name: "readme-bot"
   disabled_events:
     - push
