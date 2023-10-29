@@ -29,6 +29,10 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 - 👨‍💻 An Infrastructure engineer.
 - 📝 I will regularly write articles and docs on [The Moze Baltyk Blog](https://mozebaltyk.github.io), if my wife let me do it...
 
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
+
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=github)
