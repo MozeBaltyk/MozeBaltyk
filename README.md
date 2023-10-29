@@ -1,4 +1,4 @@
-```
+```text
 u         W   ; `   ?   ! d   &   # : / q   t       +     l 7   F ( + W   Z m O @ . z H N > X 9  
 c t       s   \ Q   m   , 2   6   j z Q             S     v b   5 n / I   r \ v   c U h I X P >  
 , Q       6   / 5   @   $ m   e   + 4 /             d     K 3   = > @ $   i .       = g b X > 3  
@@ -29,15 +29,19 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 - 👨‍💻 An Infrastructure engineer.
 - 📝 I will regularly write articles and docs on [The Moze Baltyk Blog](https://mozebaltyk.github.io), if my wife let me do it...
 
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
-
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=github)
+
+## Recent Activity
+
+This is a list of my most recent activity on GitHub.
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
 
 <!--
 **MorzeBaltyk/MorzeBaltyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
