@@ -33,7 +33,7 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=gruvbox-duo)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=gruvbox)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MozeBaltyk&theme=gruvbox-duo&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
