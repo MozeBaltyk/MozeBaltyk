@@ -31,9 +31,9 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 
 ## Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mozebaltyk&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mozebaltyk&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mozebaltyk&theme=dark)
 
 ## Recent Activities
 
