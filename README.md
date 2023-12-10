@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [MozeBaltyk/rkub](https://github.com/MozeBaltyk/rkub)<br>
-2. 💬 Commented on [#7](https://github.com/clemenko/rke_airgap_install/issues/7#issuecomment-1821060046) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-3. ✔️ Closed issue [#7](https://github.com/clemenko/rke_airgap_install/issues/7) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-4. 💬 Commented on [#7](https://github.com/clemenko/rke_airgap_install/issues/7#issuecomment-1821030744) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-5. 💬 Commented on [#7](https://github.com/clemenko/rke_airgap_install/issues/7#issuecomment-1819517940) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+1. ⭐ Starred [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 📔 Created new repository [MozeBaltyk/rkub](https://github.com/MozeBaltyk/rkub)<br>
+3. 💬 Commented on [#7](https://github.com/clemenko/rke_airgap_install/issues/7#issuecomment-1821060046) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+4. ✔️ Closed issue [#7](https://github.com/clemenko/rke_airgap_install/issues/7) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+5. 💬 Commented on [#7](https://github.com/clemenko/rke_airgap_install/issues/7#issuecomment-1821030744) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
