@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-2. 💪 Opened PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-3. 🎉 Merged PR [#6](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/6) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-4. ❌ Closed PR [#6](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/6) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-5. 💪 Opened PR [#6](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/6) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
+1. 🎉 Merged PR [#1](https://github.com/MozeBaltyk/Rkub/pull/1) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+2. 💪 Opened PR [#1](https://github.com/MozeBaltyk/Rkub/pull/1) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+3. 🎉 Merged PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
+4. 💪 Opened PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
+5. 🎉 Merged PR [#6](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/6) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
