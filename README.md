@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/MozeBaltyk/Rkub/pull/1) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-2. 💪 Opened PR [#1](https://github.com/MozeBaltyk/Rkub/pull/1) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-3. 🎉 Merged PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-4. 💪 Opened PR [#7](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/7) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-5. 🎉 Merged PR [#6](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/6) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
+1. ⭐ Starred [rancher/rke2](https://github.com/rancher/rke2)<br>
+2. ⭐ Starred [khuedoan/homelab](https://github.com/khuedoan/homelab)<br>
+3. ⭐ Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)<br>
+4. 🎉 Merged PR [#6](https://github.com/MozeBaltyk/Rkub/pull/6) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+5. 💬 Commented on [#5](https://github.com/MozeBaltyk/Rkub/pull/5#issuecomment-1894055265) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
