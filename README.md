@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rancher/rke2](https://github.com/rancher/rke2)<br>
-2. ⭐ Starred [khuedoan/homelab](https://github.com/khuedoan/homelab)<br>
-3. ⭐ Starred [maybe-finance/maybe](https://github.com/maybe-finance/maybe)<br>
-4. 🎉 Merged PR [#6](https://github.com/MozeBaltyk/Rkub/pull/6) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-5. 💬 Commented on [#5](https://github.com/MozeBaltyk/Rkub/pull/5#issuecomment-1894055265) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+1. 💬 Commented on [#10](https://github.com/clemenko/rke_airgap_install/issues/10#issuecomment-1908686501) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+2. 🎉 Merged PR [#16](https://github.com/MozeBaltyk/Rkub/pull/16) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+3. 🎉 Merged PR [#21](https://github.com/MozeBaltyk/Rkub/pull/21) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+4. 🎉 Merged PR [#23](https://github.com/MozeBaltyk/Rkub/pull/23) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+5. ❌ Closed PR [#22](https://github.com/MozeBaltyk/Rkub/pull/22) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
