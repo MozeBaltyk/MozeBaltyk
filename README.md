@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#15](https://github.com/MozeBaltyk/Rkub/pull/15) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-2. 🎉 Merged PR [#17](https://github.com/MozeBaltyk/Rkub/pull/17) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-3. 🎉 Merged PR [#18](https://github.com/MozeBaltyk/Rkub/pull/18) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-4. 🎉 Merged PR [#25](https://github.com/MozeBaltyk/Rkub/pull/25) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-5. 🎉 Merged PR [#20](https://github.com/MozeBaltyk/Rkub/pull/20) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+1. ⭐ Starred [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox)<br>
+2. 🎉 Merged PR [#15](https://github.com/MozeBaltyk/Rkub/pull/15) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+3. 🎉 Merged PR [#17](https://github.com/MozeBaltyk/Rkub/pull/17) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+4. 🎉 Merged PR [#18](https://github.com/MozeBaltyk/Rkub/pull/18) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+5. 🎉 Merged PR [#25](https://github.com/MozeBaltyk/Rkub/pull/25) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
