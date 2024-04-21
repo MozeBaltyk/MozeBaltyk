@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/12) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-2. 💪 Opened PR [#12](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/12) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-3. 🎉 Merged PR [#11](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/11) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-4. 💪 Opened PR [#11](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/11) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
-5. 🎉 Merged PR [#10](https://github.com/MozeBaltyk/mozebaltyk.github.io/pull/10) in [MozeBaltyk/mozebaltyk.github.io](https://github.com/MozeBaltyk/mozebaltyk.github.io)<br>
+1. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1572056368) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+2. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571973534) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+3. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#issuecomment-2065993122) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+4. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571951170) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+5. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571948982) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
