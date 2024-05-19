@@ -38,11 +38,9 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1572056368) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-2. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571973534) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-3. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#issuecomment-2065993122) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-4. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571951170) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
-5. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1571948982) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+1. ⭐ Starred [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+2. 🔱 Forked [MozeBaltyk/hauler-docs](https://github.com/MozeBaltyk/hauler-docs) from [rancherfederal/hauler-docs](https://github.com/rancherfederal/hauler-docs)<br>
+3. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1572056368) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
