@@ -38,9 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-2. 🔱 Forked [MozeBaltyk/hauler-docs](https://github.com/MozeBaltyk/hauler-docs) from [rancherfederal/hauler-docs](https://github.com/rancherfederal/hauler-docs)<br>
-3. 💬 Commented on [#14](https://github.com/clemenko/rke_airgap_install/pull/14#discussion_r1572056368) in [clemenko/rke_airgap_install](https://github.com/clemenko/rke_airgap_install)<br>
+1. 🎉 Merged PR [#42](https://github.com/MozeBaltyk/Rkub/pull/42) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+2. 💪 Opened PR [#42](https://github.com/MozeBaltyk/Rkub/pull/42) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+3. ❌ Closed PR [#41](https://github.com/MozeBaltyk/Rkub/pull/41) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+4. 💪 Opened PR [#41](https://github.com/MozeBaltyk/Rkub/pull/41) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+5. ✌️ Released [null](https://github.com/MozeBaltyk/Rkub/releases/tag/v1.0.3) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
