@@ -38,11 +38,11 @@ a Y    ? ,     h   ]     *   y   R           *   x s +   < 2   ] = z P          
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#42](https://github.com/MozeBaltyk/Rkub/pull/42) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-2. 💪 Opened PR [#42](https://github.com/MozeBaltyk/Rkub/pull/42) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-3. ❌ Closed PR [#41](https://github.com/MozeBaltyk/Rkub/pull/41) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-4. 💪 Opened PR [#41](https://github.com/MozeBaltyk/Rkub/pull/41) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
-5. ✌️ Released [null](https://github.com/MozeBaltyk/Rkub/releases/tag/v1.0.3) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+1. ⭐ Starred [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+2. 🎉 Merged PR [#26](https://github.com/MozeBaltyk/Rkub/pull/26) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+3. 🎉 Merged PR [#27](https://github.com/MozeBaltyk/Rkub/pull/27) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+4. 🎉 Merged PR [#28](https://github.com/MozeBaltyk/Rkub/pull/28) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
+5. 🎉 Merged PR [#33](https://github.com/MozeBaltyk/Rkub/pull/33) in [MozeBaltyk/Rkub](https://github.com/MozeBaltyk/Rkub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 
